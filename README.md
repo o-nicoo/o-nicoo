@@ -60,9 +60,9 @@ Nutzer können Listen effizient verwalten, synchronisieren und gemeinsam bearbei
 - Node.js  
 
 ### ⚙️ DevOps & Infrastruktur
-- Docker  
+- Docker & Kubernetes
 - Git  
-- Linux (Kali, Ubuntu)  
+- Linux (Kali & Ubuntu)  
 - MySQL  
 
 ---
