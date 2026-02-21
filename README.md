@@ -1,8 +1,8 @@
 # Hi, ich bin Nico 👋
 
-💻 **Fachinformatiker für Anwendungsentwicklung** (Auszubildender, 2. Lehrjahr)  
+💻 **Fachinformatiker für Anwendungsentwicklung**  
 🚀 Fokus: **Full-Stack Development, Mobile Apps & Automation**  
- **Mac-Enthusiast**
+  **Mac-Enthusiast**
 
 ---
 
