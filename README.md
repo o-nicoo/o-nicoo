@@ -13,9 +13,9 @@ Mein Schwerpunkt liegt auf der Entwicklung **skalierbarer Web- und Mobile-Anwend
 
 ---
 
-## 📱 Featured Project – Einkaufsliste
+## 📱 Featured Project – Einkaufshilfe / ShoppingHelp
 
-Ich habe meine eigene iOS-App namens **Einkaufsliste** entwickelt.
+Ich habe meine eigene iOS-App namens **Einkaufshilfe / Shoppinghelp** entwickelt.
 
 Die App vereinfacht die Einkaufsplanung und ermöglicht **gemeinsame Einkaufslisten** für Familien und Haushalte.  
 Nutzer können Listen effizient verwalten, synchronisieren und gemeinsam bearbeiten.
